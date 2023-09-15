@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\sana louafi\desktop\c challenges\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1694753725 source:c:\users\sana louafi\desktop\c challenges\challenge2.c
+	<stdio.h>
+
+1694727565 source:c:\users\sana louafi\desktop\c challenges\challenge1.c
+	<stdio.h>
+
+1694753223 source:c:\users\sana louafi\desktop\c challenges\challenge3.c
+	<stdio.h>
+
+1694753703 source:c:\users\sana louafi\desktop\c challenges\challenge4.c
+	<stdio.h>
+
+1694754627 source:c:\users\sana louafi\desktop\c challenges\challenge5.c
+	<stdio.h>
+	<math.h>
+
+1694756335 source:c:\users\sana louafi\desktop\c challenges\challenge6.c
+	<stdio.h>
+
+1694757734 source:c:\users\sana louafi\desktop\c challenges\challenge7.c
+	<stdio.h>
+
+1694758088 source:c:\users\sana louafi\desktop\c challenges\challenge8.c
+	<stdio.h>
+
