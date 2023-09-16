@@ -55,6 +55,21 @@
 		<Unit filename="challenge8.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="condition1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="condition2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="condition3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="condition4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="condition5.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
