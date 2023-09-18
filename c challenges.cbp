@@ -31,6 +31,18 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="boucle1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="boucle3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="boucle4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="boucle5.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="challenge1.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -58,6 +70,12 @@
 		<Unit filename="condition1.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="condition10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="condition11.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="condition2.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -68,6 +86,18 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="condition5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="condition7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="condition8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="condition9.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="condtion6.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
