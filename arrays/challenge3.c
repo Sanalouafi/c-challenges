@@ -14,7 +14,7 @@ int main() {
     	for(j=i+1;j<10;j++){
     		if(t[i]<t[j]){
     			p=t[i];
-    			t[i]=t[j];
+    			t[i]=t[j];    
     			t[j]=p;
 			}
 		}
