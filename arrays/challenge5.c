@@ -5,8 +5,9 @@
  	char nom[50];
  	int lon,i;
  	printf("enter votre nom: ");
- 	scanf("%s",&nom);
+ 	gets(nom);
+ 	puts(nom);
  	lon=strlen(nom);
- 	printf("votre nom est : %s \n et sa longeur est : %d",nom,lon);
+ 	printf("la longeur de votre nom est : %d",lon);
  	
  }
